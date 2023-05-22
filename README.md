@@ -6,7 +6,7 @@ This notebook is the general notebook for generating the visualizations for the 
 These visualizations are always rendered into a Slide Deck. If the intention is to understand the data (and not necessarily mingle with the code), please refer to [this link](https://drive.google.com/drive/folders/1G4Dr3S5Zxq8vBmx89CUk5fQKOjIkC1eR). If you wish to see the raw data, please refer to [this link](https://docs.google.com/spreadsheets/d/1v_sX0Bk54mcdoEeNj0L2ysR0rMvYh_G54-tchhOd3oo/edit?pli=1#gid=1601729613) instead.
 
 ## Requirements
-This notebook runs using Python 3.
+This notebook runs using Python 3, and is supposed to be compatible with the latest versions of the libraries.
 Please ensure that the following imports will work for you: 
 
 ```
@@ -15,6 +15,15 @@ import seaborn as sns
 import matplotlib as plt
 import matplotlib.pyplot as plt
 ```
+
+In the event that these libraries are not yet installed, please run the following command on your terminal to install a library:
+
+```
+pip install <library>
+```
+
+For example, to install seaborn,
+```pip install seaborn```
 
 ## Running the notebook
 
