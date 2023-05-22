@@ -23,7 +23,9 @@ pip install <library>
 ```
 
 For example, to install seaborn,
-```pip install seaborn```
+```
+pip install seaborn
+```
 
 ## Running the notebook
 
