@@ -3,7 +3,7 @@
 This notebook is the general notebook for generating the visualizations for the Screen Recording Data. 
 
 ## Important Note
-These visualizations are always rendered into a Slide Deck. If the intention is to understand the data (and not necessarily mingle with the code), please refer to [this link](https://drive.google.com/drive/folders/1G4Dr3S5Zxq8vBmx89CUk5fQKOjIkC1eR). If you wish to see the raw data, please refer to [this link](https://docs.google.com/spreadsheets/d/1v_sX0Bk54mcdoEeNj0L2ysR0rMvYh_G54-tchhOd3oo/edit?pli=1#gid=1601729613) instead
+These visualizations are always rendered into a Slide Deck. If the intention is to understand the data (and not necessarily mingle with the code), please refer to [this link](https://drive.google.com/drive/folders/1G4Dr3S5Zxq8vBmx89CUk5fQKOjIkC1eR). If you wish to see the raw data, please refer to [this link](https://docs.google.com/spreadsheets/d/1v_sX0Bk54mcdoEeNj0L2ysR0rMvYh_G54-tchhOd3oo/edit?pli=1#gid=1601729613) instead.
 
 ## Requirements
 This notebook runs using Python 3.
